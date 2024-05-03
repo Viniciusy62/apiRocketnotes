@@ -11,6 +11,7 @@ Esta é a API do APP Rocketnotes e será usada para integrar todas as funcionali
 - __*Knex.js*__
 - __*bcrypt.js*__
 - __*SQLite*__
+- __*Jason Web Token (JWT)*__
 
 
 
